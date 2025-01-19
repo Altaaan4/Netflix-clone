@@ -19,3 +19,6 @@ Technologies Used 🛠
 
 Preview 👀
 
+
+https://github.com/user-attachments/assets/a04322a7-ee4d-4e25-a42b-d9160a267cd7
+
