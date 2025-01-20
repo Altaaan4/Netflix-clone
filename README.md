@@ -18,5 +18,5 @@ You can access the project directly through GitHub Pages or clone it from this r
 
 ## **Preview 👀**
 
-https://github.com/user-attachments/assets/a04322a7-ee4d-4e25-a42b-d9160a267cd7
+![Image](https://github.com/user-attachments/assets/dd891232-d3b8-4ef9-bc2d-267a135b9275)
 
